@@ -1,0 +1,9 @@
+scrapy
+scrapy-selenium
+selenium
+webdriver-manager
+itemadapter
+sqlalchemy
+kafka-python
+pydantic
+psycopg2-binary
